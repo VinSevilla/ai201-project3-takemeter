@@ -1,0 +1,11 @@
+Community: What community did you choose and why? Why is this community a good fit for a classification task — what makes the discourse varied enough to be interesting?
+
+> The community I chose was Magic the Gathering. I chose this community because I very recently began getting into Magic and the game is very popular with a huge online presence. This card game is also very complex and has a lot of rules which opens the opportunity for a lot of discussion and questions about the rules. The game also has a lot of memes and jokes that are shared within the community which would be interesting to classify as well. Overall, the discourse within the Magic the Gathering community is varied enough to be interesting for a classification task because there are many different types of posts and comments that can be classified into different categories.
+
+Labels: What are your 2–4 labels? Define each in a complete sentence. Include 2 example posts per label.
+
+> The labels associated with this community are memes, rule questions/ clarification, and discussion. These three labels characteristically are very prominent and distinct within the forums. Any post or comments pulled from this community would be easily identifiable as one of these three labels.
+
+Hard edge cases: What type of post will be genuinely ambiguous between two labels? How will you handle it when you encounter it during annotation?
+
+> In regards to hard edge cases, the identity issue wouldn't primarily be due to ambiguity. These three labels are distinct enough to where their identities can create a complicated mix. I feel the main problem is if a post just incorporated multiple labels simultaneously. For example, a post that is a meme but also includes a question about the rules. In this case, I would handle it by looking at the primary intent of the post. If the main focus is on the meme aspect, I would classify it as a meme. If the main focus is on the question about the rules, I would classify it as a rule question/clarification. If it is truly balanced and cannot be classified as one or the other, I would create a new label for mixed content or simply classify with discussion if it doesn't fit neatly into either category.
